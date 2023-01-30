@@ -1,2 +1,11 @@
 # python-developer-theory
-A branch with hinting to became a python developer
+**Table of contents:**
+
+<!-- toc -->
+- [Переменные](#переменные)
+  * [Что надо ответить](#base-model)
+<!-- tocstop -->
+
+## Переменные
+
+Переменные
