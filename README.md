@@ -22,7 +22,7 @@
 Что выводит данная функция?
 
 ### Ссылки на теорию
-[Mutable и Immutable типы данных в python](https://www.youtube.com/watchv=hSdZxrpTkh0)
+[Mutable и Immutable типы данных в python](https://youtu.be/hSdZxrpTkh0)
 
 ## Полезный материал
 [Оптимизация производительности Django](https://evileg.com/ru/post/564/)
