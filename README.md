@@ -4,49 +4,18 @@
 <!-- toc -->
 - [Переменные](#переменные)
   * [Что надо ответить](#что-надо-ответить)
+  * [Ссылки на теорию](#ссылки-на-теорию
 <!-- tocstop -->
 
 ## Переменные
-Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:
-Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:Переменные предназначены для хранения данных. Название переменной в Python должно начинаться с алфавитного символа или со знака подчеркивания и может содержать алфавитно-цифровые символы и знак подчеркивания. И кроме того, название переменной не должно совпадать с названием ключевых слов языка Python. Ключевых слов не так много, их легко запомнить:
-Переменные
+
 
 ### Что надо ответить
-It's a good idea to define a `BaseModel`, that you can inherit.
 
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
+На какие типы делястя переменные?
+Какая между ними разница?
+Какой функцией можно подтвердить эту разницу, или какими примерами?
+Что выводит данная функция?
 
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:
-It's a good idea to define a `BaseModel`, that you can inherit.
-
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
-
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:It's a good idea to define a `BaseModel`, that you can inherit.
-
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
-
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:It's a good idea to define a `BaseModel`, that you can inherit.
-
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
-
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:It's a good idea to define a `BaseModel`, that you can inherit.
-
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
-
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:It's a good idea to define a `BaseModel`, that you can inherit.
-
-Usually, fields like `created_at` and `updated_at` are perfect candidates to go into a `BaseModel`.
-
-Defining a primary key can also go there. Potential candidate for that is the [`UUIDField`](https://docs.djangoproject.com/en/dev/ref/models/fields/#uuidfield)
-
-Here's an example `BaseModel`:
+### Ссылки на теорию
+[Mutable и Immutable типы данных в python](https://www.youtube.com/watchv=hSdZxrpTkh0&ab_channel=%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9%D0%BF%D0%B8%D1%82%D0%BE%D0%BD)
